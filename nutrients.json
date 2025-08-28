@@ -1,0 +1,200 @@
+[
+    {
+        "name": "aloo gobi",
+        "weight (g)": 154.98,
+        "calories": 110.82,
+        "protein (g)": 2.48,
+        "carbs (g)": 14.51,
+        "fat (g)": 5.46,
+        "cholesterol (mg)": 0,
+        "sodium (mg)": 230.11,
+        "fiber (g)": 2.83
+    },
+    {
+        "name": "aloo tikki",
+        "weight (g)": 121.29,
+        "calories": 228.58,
+        "protein (g)": 3.54,
+        "carbs (g)": 18.25,
+        "fat (g)": 16.5,
+        "cholesterol (mg)": 16.69,
+        "sodium (mg)": 84.61,
+        "fiber (g)": 2.37
+    },
+    {
+        "name": "bhatura",
+        "weight (g)": 86.04,
+        "calories": 230.05,
+        "protein (g)": 5.57,
+        "carbs (g)": 30.29,
+        "fat (g)": 10.51,
+        "cholesterol (mg)": 5.67,
+        "sodium (mg)": 266.91,
+        "fiber (g)": 3.46
+    },
+    {
+        "name": "masala",
+        "weight (g)": 1.47,
+        "calories": 4.64,
+        "protein (g)": 0.16,
+        "carbs (g)": 0.85,
+        "fat (g)": 0.19,
+        "cholesterol (mg)": 0,
+        "sodium (mg)": 1.24,
+        "fiber (g)": 0.36
+    },
+    {
+        "name": "biryani",
+        "weight (g)": 205.18,
+        "calories": 291.95,
+        "protein (g)": 19.65,
+        "carbs (g)": 30.95,
+        "fat (g)": 9.44,
+        "cholesterol (mg)": 48.47,
+        "sodium (mg)": 419.16,
+        "fiber (g)": 1.36
+    },
+    {
+        "name": "butter chicken",
+        "weight (g)": 239.88,
+        "calories": 354.64,
+        "protein (g)": 23.35,
+        "carbs (g)": 13.93,
+        "fat (g)": 23.31,
+        "cholesterol (mg)": 92.43,
+        "sodium (mg)": 250.96,
+        "fiber (g)": 2.03
+    },
+    {
+        "name": "cham cham",
+        "weight (g)": 109.4,
+        "calories": 150.16,
+        "protein (g)": 1.6,
+        "carbs (g)": 30.17,
+        "fat (g)": 3.09,
+        "cholesterol (mg)": 5.7,
+        "sodium (mg)": 31.23,
+        "fiber (g)": 0.41
+    },
+    {
+        "name": "chana masala",
+        "weight (g)": 195.08,
+        "calories": 280.93,
+        "protein (g)": 7.67,
+        "carbs (g)": 28.63,
+        "fat (g)": 16.45,
+        "cholesterol (mg)": 0,
+        "sodium (mg)": 239.76,
+        "fiber (g)": 7.6
+    },
+    {
+        "name": "chapati",
+        "weight (g)": 40,
+        "calories": 119.6,
+        "protein (g)": 3.14,
+        "carbs (g)": 18.45,
+        "fat (g)": 3.68,
+        "cholesterol (mg)": 0,
+        "sodium (mg)": 119.2,
+        "fiber (g)": 3.88
+    },
+    {
+        "name": "chicken tikka",
+        "weight (g)": 253.22,
+        "calories": 291.15,
+        "protein (g)": 33.31,
+        "carbs (g)": 11.19,
+        "fat (g)": 12.21,
+        "cholesterol (mg)": 82.34,
+        "sodium (mg)": 267.96,
+        "fiber (g)": 2.21
+    },
+    {
+        "name": "chicken tikka masala",
+        "weight (g)": 472,
+        "calories": 729.73,
+        "protein (g)": 55.61,
+        "carbs (g)": 21.7,
+        "fat (g)": 47.79,
+        "cholesterol (mg)": 250.85,
+        "sodium (mg)": 2601.38,
+        "fiber (g)": 4.33
+    },
+    {
+        "name": "daal",
+        "weight (g)": 214.26,
+        "calories": 221.88,
+        "protein (g)": 14.25,
+        "carbs (g)": 33.94,
+        "fat (g)": 4.18,
+        "cholesterol (mg)": 0,
+        "sodium (mg)": 431.36,
+        "fiber (g)": 12.89
+    },
+    {
+        "name": "daal",
+        "weight (g)": 214.26,
+        "calories": 221.88,
+        "protein (g)": 14.25,
+        "carbs (g)": 33.94,
+        "fat (g)": 4.18,
+        "cholesterol (mg)": 0,
+        "sodium (mg)": 431.36,
+        "fiber (g)": 12.89
+    },
+    {
+        "name": "dal makhani",
+        "weight (g)": 253.46,
+        "calories": 426.89,
+        "protein (g)": 16.28,
+        "carbs (g)": 39.48,
+        "fat (g)": 24.21,
+        "cholesterol (mg)": 56.55,
+        "sodium (mg)": 481.6,
+        "fiber (g)": 13.21
+    },
+    {
+        "name": "dal",
+        "weight (g)": 214.26,
+        "calories": 221.88,
+        "protein (g)": 14.25,
+        "carbs (g)": 33.94,
+        "fat (g)": 4.18,
+        "cholesterol (mg)": 0,
+        "sodium (mg)": 431.36,
+        "fiber (g)": 12.89
+    },
+    {
+        "name": "dharwad pedha",
+        "weight (g)": 84.96,
+        "calories": 90.17,
+        "protein (g)": 2.39,
+        "carbs (g)": 9.91,
+        "fat (g)": 4.7,
+        "cholesterol (mg)": 13.34,
+        "sodium (mg)": 32.82,
+        "fiber (g)": 0.01
+    },
+    {
+        "name": "double ka meetha",
+        "weight (g)": 198.01,
+        "calories": 337.35,
+        "protein (g)": 6.88,
+        "carbs (g)": 53.76,
+        "fat (g)": 11.14,
+        "cholesterol (mg)": 28.78,
+        "sodium (mg)": 246.73,
+        "fiber (g)": 1.33
+    },
+    {
+        "name": "paneer butter masala",
+        "weight (g)": 198.14,
+        "calories": 201.27,
+        "protein (g)": 8.24,
+        "carbs (g)": 6.9,
+        "fat (g)": 16.27,
+        "cholesterol (mg)": 40.57,
+        "sodium (mg)": 503.26,
+        "fiber (g)": 1.5
+    }
+]

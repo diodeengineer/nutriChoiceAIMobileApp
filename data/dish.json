@@ -1,0 +1,84 @@
+
+[
+  {
+    "id": 1,
+    "name": "momos",
+    "perServing": "6 pieces (120g)",
+    "calories": 220,
+    "protein": 8,
+    "carbs": 28,
+    "fat": 9
+  },
+  {
+    "id": 2,
+    "name": "omelette",
+    "perServing": "1 omelette (100g)",
+    "calories": 154,
+    "protein": 11,
+    "carbs": 2,
+    "fat": 12
+  },
+  {
+    "id": 3,
+    "name": "paratha",
+    "perServing": "1 paratha (100g)",
+    "calories": 260,
+    "protein": 6,
+    "carbs": 34,
+    "fat": 11
+  },
+  {
+    "id": 4,
+    "name": "ras_malai",
+    "perServing": "2 pieces (100g)",
+    "calories": 250,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 12
+  },
+  {
+    "id": 5,
+    "name": "rasgulla",
+    "perServing": "2 pieces (100g)",
+    "calories": 186,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 2
+  },
+  {
+    "id": 6,
+    "name": "samosa",
+    "perServing": "1 samosa (100g)",
+    "calories": 262,
+    "protein": 6,
+    "carbs": 32,
+    "fat": 13
+  },
+  {
+    "id": 7,
+    "name": "tomato_chutney",
+    "perServing": "2 tbsp (30g)",
+    "calories": 25,
+    "protein": 1,
+    "carbs": 5,
+    "fat": 0.5
+  },
+  {
+    "id": 8,
+    "name": "uttapam",
+    "perServing": "1 uttapam (150g)",
+    "calories": 250,
+    "protein": 6,
+    "carbs": 44,
+    "fat": 6
+  },
+  {
+    "id": 9,
+    "name": "vada_pav",
+    "perServing": "1 vada pav (150g)",
+    "calories": 290,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 10
+  }
+]
