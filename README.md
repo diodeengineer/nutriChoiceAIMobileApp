@@ -62,16 +62,14 @@ Scan the QR code with the Expo Go app (iOS/Android).
 
 Or choose the emulator/simulator option.
 ```
+
 ## Tech Stack
 
-React Native – Cross-platform mobile app development
-
-Expo – Simplified development workflow
-
-TensorFlow.js – AI/ML model for food recognition
-
-AsyncStorage – Local storage for user profile and daily logs
-
+| Technology           | Logo |
+|---------------------|------|
+| React Native + Expo  | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="32"/> |
+| TensorFlow.js        | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="32"/> |
+| Google Colab         | <img src=""/> |
 
 
 ## Project Structure
