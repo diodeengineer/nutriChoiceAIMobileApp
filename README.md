@@ -89,6 +89,15 @@ nutriChoiceAIMobileApp/
 ├── App.js
 └── package.json
 ```
+
+## Model Performance & Limitations
+
+This initial model was trained on fewer than 400 images, which limits its accuracy.  
+Current validation accuracy is around 64%, so misclassifications are expected.  
+Future versions will include a larger dataset and additional training to improve performance.
+
+<img width="1110" height="590" alt="Screenshot from 2025-08-30 15-39-21" src="https://github.com/user-attachments/assets/1a42ac7c-e87a-4fd2-880e-bad3b94fb24f" />
+
 ## Future Improvements
 
 Add AI-based portion size estimation.
