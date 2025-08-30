@@ -1,6 +1,8 @@
 
 // utils/imageUtils.js
 import * as tf from "@tensorflow/tfjs";
+import "@tensorflow/tfjs-backend-webgl"; // GPU accelerated backend
+
 import { decodeJpeg } from "@tensorflow/tfjs-react-native";
 import * as FileSystem from "expo-file-system";
 

@@ -112,7 +112,14 @@ const runPrediction = async (uri) => {
   return (
     <View style={styles.container}>
       {onClose && (
-        <TouchableOpacity style={styles.backButton} onPress={onClose}>
+        <TouchableOpacity style={styles.backButton} 
+        // onPress={onClose}
+        
+        onPress={() => {
+          console.log("Back pressed");
+          onClose(); // this should switch screen
+        }}
+        >
           <Text style={styles.backText}>Back</Text>
         </TouchableOpacity>
       )}
@@ -193,13 +200,17 @@ const styles = StyleSheet.create({
     top: 50,
     left: 20,
     backgroundColor: "#111827",
+    color: "#e1e5ecff",
     paddingHorizontal: 12,
     paddingVertical: 6,
     borderRadius: 8,
     elevation: 5,
-  },
+    padding: 10,
+    marginBottom: 10,
+    alignSelf: "flex-start"},
+  
   backText: {
-    color: "white",
+    color: "#edf0f5ff",
     fontSize: 15,
     fontWeight: "bold",
   },

@@ -9,11 +9,11 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "2.1.2",
+    "@react-native-async-storage/async-storage": "^2.2.0",
     "@tensorflow/tfjs": "^4.22.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.22.0",
     "@tensorflow/tfjs-react-native": "^1.0.0",
-    "dotenv": "^17.2.1",
-    "expo": "~53.0.20",
+    "expo": "~53.0.0",
     "expo-asset": "~11.1.7",
     "expo-blur": "~14.1.5",
     "expo-camera": "~16.1.11",
@@ -24,8 +24,7 @@
     "react-native": "0.79.5",
     "react-native-fs": "^2.20.0",
     "react-native-progress": "^5.0.1",
-    "react-native-svg": "^15.12.1",
-    "react-native-unimodules": "^0.15.0"
+    "react-native-svg": "^15.12.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

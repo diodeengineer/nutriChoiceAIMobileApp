@@ -2,6 +2,7 @@
 // utils/modelLoader.js
 
 import * as tf from "@tensorflow/tfjs";
+import "@tensorflow/tfjs-backend-webgl"; // GPU accelerated backend
 import "@tensorflow/tfjs-react-native";
 import { bundleResourceIO } from "@tensorflow/tfjs-react-native";
 

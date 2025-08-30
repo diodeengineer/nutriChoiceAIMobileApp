@@ -23,8 +23,6 @@
       "edgeToEdgeEnabled": true,
       "permissions": [
         "android.permission.CAMERA",
-        "android.permission.RECORD_AUDIO",
-        "android.permission.CAMERA",
         "android.permission.RECORD_AUDIO"
       ],
       "package": "com.dilipboidya.nutrichoiceApp"
@@ -45,7 +43,10 @@
     ],
     "extra": {
       "API_URL": "https://my-api.com",
-      "API_KEY": "justfortesting"
+      "API_KEY": "justfortesting",
+      "eas": {
+        "projectId": "e75a9374-cc1b-4de4-bfa6-ed9bfa196c45"
+      }
     }
   }
 }
